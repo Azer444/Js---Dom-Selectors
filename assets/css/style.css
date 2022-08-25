@@ -1,0 +1,105 @@
+body{
+    background-color: #008CBA;
+}
+h1{
+    text-align: center;
+}
+#calculator .numbers {
+    text-align: center;
+}
+#calculator .center button{
+    position: relative;
+    left: 75%;
+}
+#calculator .numbers input:nth-child(1){
+    width: 300px;
+    height: 15px;
+}
+#calculator .numbers input:nth-child(2){
+    position: relative;
+    left: 50px;
+    width: 300px;
+    height: 15px;
+}
+#calculator .sum input{
+    position: relative;
+    left: 40%;
+    width: 350px;
+    height: 20px;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid ;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .button1:hover {
+    background-color:#4CAF50;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid ;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .button2:hover {
+    background-color: red;
+    color: white;
+  }
+  
+  .button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid ;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .button3:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid ;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .button4:hover {
+    background-color: red;
+    color: white;
+    }
+
+
+  
+  
